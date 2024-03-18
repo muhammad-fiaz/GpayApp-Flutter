@@ -16,6 +16,8 @@ Flutter Google Pay Clone - A Flutter project replicating Google Pay's features, 
 
 ## Screenshots
 
+<img src="https://github.com/muhammad-fiaz/GpayApp-Flutter/assets/75434191/c590ed95-87a3-4c43-a72a-952f22d1b999" width="200"> <img src="https://github.com/muhammad-fiaz/GpayApp-Flutter/assets/75434191/ca8038d8-4d27-4554-9762-4dc879ba85c0" width="200"> <img src="https://github.com/muhammad-fiaz/GpayApp-Flutter/assets/75434191/22fc5f76-f7eb-4039-be14-4596f23efdda" width="200">
+
 
 Note: This App contains only UI and no functionality is implemented yet. and also all the data and images are dummy and used for UI purpose only.
 
