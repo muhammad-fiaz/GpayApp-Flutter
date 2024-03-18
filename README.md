@@ -2,6 +2,8 @@
 
 Flutter Google Pay Clone - A Flutter project replicating Google Pay's features, enabling card management, payments, and transactions in a user-friendly app.
 
+If you find this project helpful or interesting, please give it a star on GitHub. It's a simple gesture that helps to support the project and show appreciation for the work done.
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
