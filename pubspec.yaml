@@ -39,7 +39,7 @@ dependencies:
   google_fonts: 6.2.0
   mobx: ^2.0.1
   flutter_mobx: ^2.0.0
-  flutter_vector_icons: ^1.0.0
+  flutter_vector_icons: ^2.0.0
   flutter_staggered_animations: 1.0.0
   flare_flutter: ^3.0.1
   webview_flutter: ^2.0.10
