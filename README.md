@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # Gpay 
 
 [![License](https://img.shields.io/github/license/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/blob/main/LICENSE)
@@ -8,6 +10,8 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/graphs/contributors)
 [![GitHub watchers](https://img.shields.io/github/watchers/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/watchers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/commits/main)
+
+</div>
 
 
 Flutter Google Pay Clone - A Flutter project replicating Google Pay's features, enabling card management, payments, and transactions in a user-friendly app.
