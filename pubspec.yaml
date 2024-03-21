@@ -51,7 +51,7 @@ dependencies:
   passcode_screen: ^2.0.0
   scratcher: ^2.1.0
   carousel_slider: ^4.0.0
-  native_device_orientation: ^1.0.0
+  native_device_orientation: ^2.0.3
   share: ^2.0.4
   camera: ^0.8.1+4
   connectivity_plus: ^5.0.2
