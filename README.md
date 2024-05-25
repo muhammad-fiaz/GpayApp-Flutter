@@ -92,7 +92,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-licensed under the [MIT License](LICENSE).
+it's licensed under the [MIT License](LICENSE).
 
 ## Support
 
