@@ -10,7 +10,12 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/graphs/contributors)
 [![GitHub watchers](https://img.shields.io/github/watchers/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/watchers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/commits/main)
-
+<a href="https://discord.gg/uRkZ5cHf" target="_blank">
+  <img
+    src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf?style=shield"
+    alt="discord invite"
+  />
+</a>
 </div>
 
 
